@@ -1,0 +1,8 @@
+$url: "images/header\ pattern\ svg.svg";
+$bgcolor1: rgb(227, 227, 227);
+$bg_color_2: #8cdc96;
+
+@include display($dis, $jus_cont) {
+   display: $dis;
+   justify-content: $jus_cont;
+}

@@ -1,0 +1,7 @@
+$bg_color_1: #eeeee4;
+$url: "header\ pattern\ svg.svg";
+$bg_color_2: white;
+
+@mixin display($dis) {
+    display: $dis;
+}
